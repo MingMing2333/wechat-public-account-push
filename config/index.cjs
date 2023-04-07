@@ -53,7 +53,7 @@ const USER_CONFIG = {
     key: '7b68d710c12fd751cf299b7b258b1c84',
     
     morningGreeting: true,
-  }
+  },
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
   CALLBACK_TEMPLATE_ID: 'SnoMwv60soVb_5bqN6iBupMo3vWgRzo0T6rnAVIcSDE',
