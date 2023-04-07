@@ -19,9 +19,9 @@ const USER_CONFIG = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: '宝贝',
+      name: 'Holly宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oMMmL6OXvGiJfTVlf1ZP61ISfROc',
+      id: 'oMMmL6DTn_sXZXAQUTnkvX5FilA0',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '3OwWedFTZSaPbMvrzQ_AK2NoMCGKHfCGpMp630WSZpM',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
@@ -29,7 +29,7 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '宝贝', year: '2000', date: '03-18',
+          type: '*生日', name: 'Holly宝贝', year: '2000', date: '03-18',
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
