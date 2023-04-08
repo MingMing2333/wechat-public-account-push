@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oMMmL6A9_LBHe9Iyl32_TzOeJhM0',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'DTTqn8h8ASElNGknWouNPfaWXMG3DpjyqUQw80W-c58',
+      useTemplateId: 'iDTjFsY8firBOYEHkBeRVpPA7DkNNcNCEbyNCSXGQ5c',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '04-22',
       festivals: [
@@ -52,7 +52,7 @@ const USER_CONFIG = {
     },
     {
       // 想要发送的人的名字
-      name: 'HL_daily',
+      name: 'HL_Luck',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oMMmL6A9_LBHe9Iyl32_TzOeJhM0',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
@@ -85,11 +85,11 @@ const USER_CONFIG = {
     },
     {
       // 想要发送的人的名字
-      name: 'HL_daily',
+      name: 'HL_Happy',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oMMmL6A9_LBHe9Iyl32_TzOeJhM0',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'AuWIbI7RDAZYZBkfq_2N50TbpUiAHm0-uVScEWDvmfk',
+      useTemplateId: 'GLFtw3teRIbEsWnc5AtjISm77yMcns9HcE3Pttfc3Zc',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '04-22',
       festivals: [
@@ -115,33 +115,7 @@ const USER_CONFIG = {
 //         // 离汉日期
 //         { keyword: 'leave_day', date: '2023-07-25' },
       ],
-    },
-    {
-      name: 'HL_luck',
-      id: 'oMMmL6A9_LBHe9Iyl32_TzOeJhM0',
-      useTemplateId: 'eEcS-KyJ-9zUmXL9Ltql2Y9GYrMRDcCufkWLgEKXoE8',
-      province: '',
-      city: '',
-      horoscopeDate: '',
-      horoscopeDateType: '',
-//       openUrl: 'https://wangxinleo.cn',
-      festivals: [],
-      customizedDateList: [],
-      courseSchedule: null
-    },
-    {
-      name: 'HL_words',
-      id: 'oMMmL6A9_LBHe9Iyl32_TzOeJhM0',
-      useTemplateId: 'AuWIbI7RDAZYZBkfq_2N50TbpUiAHm0-uVScEWDvmfk',
-      province: '',
-      city: '',
-      horoscopeDate: '',
-      horoscopeDateType: '',
-//       openUrl: 'https://wangxinleo.cn',
-      festivals: [],
-      customizedDateList: [],
-      courseSchedule: null
-    },
+    }
   ],
 
   TIAN_API: {
