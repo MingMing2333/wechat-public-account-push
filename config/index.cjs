@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oMMmL6A9_LBHe9Iyl32_TzOeJhM0',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'iDTjFsY8firBOYEHkBeRVpPA7DkNNcNCEbyNCSXGQ5c',
+      useTemplateId: 'maAhMGSRyJeSI1IYU-xgyCdYLFQptLLMuuUthV2NCcc',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '04-22',
       festivals: [
@@ -39,7 +39,7 @@ const USER_CONFIG = {
           type: '节日', name: '相识纪念日（飞机上相遇）', year: '2021', date: '06-07',
         },
         {
-          type: '节日', name: '离汉回嘉鱼', year: '2023', date: '07-25',
+          type: '节日', name: '我宝宝离汉回嘉鱼', year: '2023', date: '07-25',
         },
       ],
       // 我们在一起已经有xxxx天了的配置
@@ -89,7 +89,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oMMmL6A9_LBHe9Iyl32_TzOeJhM0',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'e-QZPP10D6XLOMS64ZIyL7Cme5_RqVU4muxXC6USSnc',
+      useTemplateId: 'SSuknkygv9Rvh0TCvDhffxcXlVzmXnumXILB0rlCTs0',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '04-22',
       festivals: [
