@@ -21,7 +21,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: 'HL_daily',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oMMmL6A9_LBHe9Iyl32_TzOeJhM0',
+      id: 'oMMmL6DTn_sXZXAQUTnkvX5FilA0',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'maAhMGSRyJeSI1IYU-xgyCdYLFQptLLMuuUthV2NCcc',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
@@ -54,7 +54,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: 'HL_Luck',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oMMmL6A9_LBHe9Iyl32_TzOeJhM0',
+      id: 'oMMmL6DTn_sXZXAQUTnkvX5FilA0',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'eEcS-KyJ-9zUmXL9Ltql2Y9GYrMRDcCufkWLgEKXoE8',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
@@ -87,7 +87,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: 'HL_Happy',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oMMmL6A9_LBHe9Iyl32_TzOeJhM0',
+      id: 'oMMmL6DTn_sXZXAQUTnkvX5FilA0',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'SSuknkygv9Rvh0TCvDhffxcXlVzmXnumXILB0rlCTs0',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
