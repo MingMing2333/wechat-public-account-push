@@ -38,9 +38,9 @@ const USER_CONFIG = {
         {
           type: '节日', name: '相识纪念日（飞机上相遇）', year: '2021', date: '06-07',
         },
-//         {
-//           type: '节日', name: '我宝宝离汉回嘉鱼', year: '2023', date: '07-25',
-//         },
+        {
+          type: '节日', name: '我宝宝离汉回嘉鱼', year: '2023', date: '07-25',
+        },
       ],
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
