@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oMMmL6A9_LBHe9Iyl32_TzOeJhM0',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'nMwLgWBCfFPpG1EdkkfmhNPfLWtrygQQ4dlUqAhLZy8',
+      useTemplateId: 'lXN3fnfdDzfAOMqXdwr1vn1b3C3LLRu-ltPBe9vqomU',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '04-22',
       festivals: [
@@ -42,6 +42,7 @@ const USER_CONFIG = {
           type: '节日', name: '我宝宝离汉回嘉鱼', year: '2023', date: '07-25',
         },
       ],
+      
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 在一起的日子
@@ -50,39 +51,39 @@ const USER_CONFIG = {
 //         { keyword: 'leave_day', date: '2023-07-25' },
       ],
     },
-//     {
-//       // 想要发送的人的名字
-//       name: 'HL_Luck',
-//       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-//       id: 'oMMmL6A9_LBHe9Iyl32_TzOeJhM0',
-//       // 使用微信测试号：你想对他发送的模板消息的模板ID
-//       useTemplateId: 'eEcS-KyJ-9zUmXL9Ltql2Y9GYrMRDcCufkWLgEKXoE8',
-//       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
-//       horoscopeDate: '04-22',
-//       festivals: [
-//         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
+    {
+      // 想要发送的人的名字
+      name: 'HL_Luck',
+      // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
+      id: 'oMMmL6A9_LBHe9Iyl32_TzOeJhM0',
+      // 使用微信测试号：你想对他发送的模板消息的模板ID
+      useTemplateId: '	8yKkbAIV2sk2yQYhHC5zvNME9eC_LLDcakHBvsXg0rM',
+      // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
+      horoscopeDate: '04-22',
+      festivals: [
+        // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
+        {
+          type: '*生日', name: 'Holly宝贝', year: '2000', date: '03-18',
+        },
+        // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
 //         {
-//           type: '*生日', name: 'Holly宝贝', year: '2000', date: '03-18',
+//           type: '生日', name: 'Holly宝贝', year: '2000', date: '04-22',
 //         },
-//         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
-// //         {
-// //           type: '生日', name: 'Holly宝贝', year: '2000', date: '04-22',
-// //         },
-//         {
-//           type: '节日', name: '相识纪念日（飞机上相遇）', year: '2021', date: '06-07',
-//         },
-//         {
-//           type: '节日', name: '离汉回嘉鱼', year: '2023', date: '07-25',
-//         },
-//       ],
-//       // 我们在一起已经有xxxx天了的配置
-//       customizedDateList: [
-//         // 在一起的日子
-//         { keyword: 'love_day', date: '2021-06-27' },
-// //         // 离汉日期
-// //         { keyword: 'leave_day', date: '2023-07-25' },
-//       ],
-//     },
+        {
+          type: '节日', name: '相识纪念日（飞机上相遇）', year: '2021', date: '06-07',
+        },
+        {
+          type: '节日', name: '离汉回嘉鱼', year: '2023', date: '07-25',
+        },
+      ],
+      // 我们在一起已经有xxxx天了的配置
+      customizedDateList: [
+        // 在一起的日子
+        { keyword: 'love_day', date: '2021-06-27' },
+//         // 离汉日期
+//         { keyword: 'leave_day', date: '2023-07-25' },
+      ],
+    },
 //     {
 //       // 想要发送的人的名字
 //       name: 'HL_Happy',
