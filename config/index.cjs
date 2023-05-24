@@ -21,9 +21,9 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: 'HL_daily',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oMMmL6DTn_sXZXAQUTnkvX5FilA0',
+      id: 'oMMmL6A9_LBHe9Iyl32_TzOeJhM0',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'maAhMGSRyJeSI1IYU-xgyCdYLFQptLLMuuUthV2NCcc',
+      useTemplateId: '	v-E55Srdc4tPLEMINACocpF5lF6q_K85Fd3E29rAiCk',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '04-22',
       festivals: [
@@ -38,9 +38,9 @@ const USER_CONFIG = {
         {
           type: '节日', name: '相识纪念日（飞机上相遇）', year: '2021', date: '06-07',
         },
-        {
-          type: '节日', name: '我宝宝离汉回嘉鱼', year: '2023', date: '07-25',
-        },
+//         {
+//           type: '节日', name: '我宝宝离汉回嘉鱼', year: '2023', date: '07-25',
+//         },
       ],
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
@@ -54,7 +54,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: 'HL_Luck',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oMMmL6DTn_sXZXAQUTnkvX5FilA0',
+      id: 'oMMmL6A9_LBHe9Iyl32_TzOeJhM0',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'eEcS-KyJ-9zUmXL9Ltql2Y9GYrMRDcCufkWLgEKXoE8',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
@@ -87,7 +87,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: 'HL_Happy',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oMMmL6DTn_sXZXAQUTnkvX5FilA0',
+      id: 'oMMmL6A9_LBHe9Iyl32_TzOeJhM0',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'SSuknkygv9Rvh0TCvDhffxcXlVzmXnumXILB0rlCTs0',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
